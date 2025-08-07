@@ -1,6 +1,10 @@
 # Ecliptic Music Player
 
 A modern Linux music player with real-time audio visualization using Cava.
+<p align="center">
+  <img src="Icons/example1.gif" width="45%" />
+  <img src="Icons/example2.gif" width="45%" />
+</p>
 
 ## Features
 
@@ -97,14 +101,6 @@ make test          # Run tests
 python3 ecliptic.py # Run application
 ```
 
-### Available Make Targets
-```bash
-make deps          # Install dependencies
-make install       # Install system-wide
-make uninstall     # Remove installation
-make test          # Test dependencies
-make clean         # Clean temporary files
-```
 
 ## Troubleshooting
 
@@ -162,4 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Ecliptic Music Player** - Experience music with visual harmony.
+**Ecliptic Music Player**
