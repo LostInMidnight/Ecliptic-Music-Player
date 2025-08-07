@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ecliptic Music Player
+Comment=Modern Linux music player with audio visualization
+Exec=ecliptic
+Icon=~/Ecliptic-Music-Player/Icons/ecliptic-icon.png
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=music;player;audio;visualizer;
+StartupNotify=true
+MimeType=audio/mpeg;audio/mp3;audio/flac;audio/ogg;audio/mp4;audio/wav;audio/x-wav;audio/vorbis;
