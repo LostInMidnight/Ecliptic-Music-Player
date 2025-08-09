@@ -101,6 +101,15 @@ make test          # Run tests
 python3 ecliptic.py # Run application
 ```
 
+## 📋 To-Do
+
+- [ ] Fix volume slider behavior when playing music from the browser.
+- [ ] Improve the design and functionality of the **Queue** tab.
+- [ ] Add support for a resizable (modifiable window size) mode.
+- [ ] Change progress bar and volume slider color schemes dynamically based on the dominant colors of the current album art.
+- [ ] Create better-styled and more intuitive UI buttons.
+- [ ] Implement a `make uninstall.sh` script for easy removal of the application.
+
 
 ## Troubleshooting
 
